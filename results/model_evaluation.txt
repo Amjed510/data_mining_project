@@ -1,0 +1,29 @@
+# Model Evaluation Results
+
+## Decision Tree Results
+Accuracy: 0.9411
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.99      0.94      4896
+           1       0.98      0.90      0.94      4893
+
+    accuracy                           0.94      9789
+   macro avg       0.94      0.94      0.94      9789
+weighted avg       0.94      0.94      0.94      9789
+
+
+## Naive Bayes Results
+Accuracy: 0.7215
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.92      0.77      4896
+           1       0.87      0.52      0.65      4893
+
+    accuracy                           0.72      9789
+   macro avg       0.76      0.72      0.71      9789
+weighted avg       0.76      0.72      0.71      9789
+

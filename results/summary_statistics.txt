@@ -1,0 +1,17 @@
+Sales Statistics:
+count     9789.000000
+mean       230.116193
+std        625.302079
+min          0.444000
+25%         17.248000
+50%         54.384000
+75%        210.392000
+max      22638.480000
+Name: Sales, dtype: float64
+
+Top 5 Categories by Sales:
+Category
+Technology         825856.1130
+Furniture          723538.4757
+Office Supplies    703212.8240
+Name: Sales, dtype: float64
