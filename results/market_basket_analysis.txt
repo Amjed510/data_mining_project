@@ -1,60 +1,60 @@
 Top 10 Product Association Rules:
 
 Rule 36:
-Products: frozenset({'Storage'}) -> frozenset({'Paper', 'Binders'})
+Products: frozenset({'Storage'}) -> frozenset({'Binders', 'Paper'})
 Support: 0.011
 Confidence: 0.068
 Lift: 1.255
 
 Rule 31:
-Products: frozenset({'Paper', 'Binders'}) -> frozenset({'Storage'})
+Products: frozenset({'Binders', 'Paper'}) -> frozenset({'Storage'})
 Support: 0.011
 Confidence: 0.195
 Lift: 1.255
 
 Rule 30:
-Products: frozenset({'Phones'}) -> frozenset({'Paper', 'Binders'})
+Products: frozenset({'Phones'}) -> frozenset({'Binders', 'Paper'})
 Support: 0.011
 Confidence: 0.066
 Lift: 1.217
 
 Rule 25:
-Products: frozenset({'Paper', 'Binders'}) -> frozenset({'Phones'})
+Products: frozenset({'Binders', 'Paper'}) -> frozenset({'Phones'})
 Support: 0.011
 Confidence: 0.199
 Lift: 1.217
 
-Rule 26:
+Rule 27:
 Products: frozenset({'Paper', 'Phones'}) -> frozenset({'Binders'})
 Support: 0.011
 Confidence: 0.314
 Lift: 1.194
 
-Rule 29:
+Rule 28:
 Products: frozenset({'Binders'}) -> frozenset({'Paper', 'Phones'})
 Support: 0.011
 Confidence: 0.041
 Lift: 1.194
 
-Rule 28:
+Rule 29:
 Products: frozenset({'Paper'}) -> frozenset({'Binders', 'Phones'})
 Support: 0.011
 Confidence: 0.046
 Lift: 1.150
 
-Rule 27:
+Rule 26:
 Products: frozenset({'Binders', 'Phones'}) -> frozenset({'Paper'})
 Support: 0.011
 Confidence: 0.272
 Lift: 1.150
 
-Rule 32:
+Rule 33:
 Products: frozenset({'Paper', 'Storage'}) -> frozenset({'Binders'})
 Support: 0.011
 Confidence: 0.299
 Lift: 1.138
 
-Rule 35:
+Rule 34:
 Products: frozenset({'Binders'}) -> frozenset({'Paper', 'Storage'})
 Support: 0.011
 Confidence: 0.040

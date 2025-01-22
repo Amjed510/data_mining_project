@@ -1,0 +1,4 @@
+ملخص البيانات:
+عدد السجلات: 3000
+الأعمدة: ['Order_Date', 'Category', 'Region', 'Segment', 'Sales', 'Quantity', 'Discount', 'Profit']
+أنواع البيانات: {'Order_Date': dtype('<M8[ns]'), 'Category': dtype('O'), 'Region': dtype('O'), 'Segment': dtype('O'), 'Sales': dtype('float64'), 'Quantity': dtype('int32'), 'Discount': dtype('float64'), 'Profit': dtype('float64')}

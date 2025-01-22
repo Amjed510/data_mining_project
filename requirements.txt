@@ -5,3 +5,7 @@ matplotlib>=3.4.2
 seaborn>=0.11.1
 mlxtend>=0.18.0  # for Apriori algorithm
 jupyter>=1.0.0
+joblib>=1.0.1  # for model saving and loading
+ipykernel>=6.0.0  # for Jupyter notebooks
+notebook>=6.4.0  # for Jupyter notebooks
+python-dateutil>=2.8.2  # for date handling

@@ -1,0 +1,25 @@
+تقرير نموذج شجرة القرار
+--------------------------------------------------
+
+نتائج التصنيف:
+              precision    recall  f1-score   support
+
+        High       0.32      0.51      0.40       190
+         Low       0.31      0.27      0.29       215
+      Medium       0.31      0.19      0.24       195
+
+    accuracy                           0.32       600
+   macro avg       0.32      0.32      0.31       600
+weighted avg       0.32      0.32      0.31       600
+
+
+أهمية المتغيرات:
+            feature  importance
+4          Discount    0.471039
+3          Quantity    0.184442
+0              Year    0.150724
+1             Month    0.072887
+2           Quarter    0.049943
+6    Region_Encoded    0.046464
+5  Category_Encoded    0.024501
+7   Segment_Encoded    0.000000
